@@ -8,6 +8,8 @@ In android 5.0 google changed the way answering the phone works.
 
 Tablet Talk is an app that allows you to answer the phone from a tablet, and has not been updated properly since 4.4.
 
+Without patching the APK the tablet talk app will just not answer.
+
 This source code will allow you to patch your own APK (for your phone) to answer the call correctly
 
 Requirements
