@@ -19,3 +19,5 @@ Usage
 Put your tablet talk APK in the same folder as "Patch.bat"
 
 Run patch.bat and type the name of the APK file (without.apk)
+
+Install the output file to your phone
